@@ -4,3 +4,8 @@ Me preparando para uma nova colocação no mercado e vendo cotidianamente os mai
 
 ![Alt text](https://raw.githubusercontent.com/rgabriel738/Python/master/Django/bancoEmpregos/Captura%20de%20Tela%20(141).png?raw=true "Screenshot")
 
+## O processo de desenvolvimento
+
+Para a realização módulo VAGAS, utilizei de classes simples e suas relações com os ForeignKey's e para visualização do gráfico, [Chart.js](https://www.chartjs.org/) de forma que os dados fossem passados por [Json](https://www.json.org/json-pt.html).
+
+---
